@@ -22,10 +22,11 @@ At **Lienzo**, we're not just selling hoodies; we're crafting a community. Found
 We’re more than just a store; we’re a community. Follow us on our social media channels to stay updated on our latest designs, customization options, and special offers. Be part of our journey to create a vibrant college culture that celebrates individuality.
 
 - **Instagram**: [@lienzo](https://instagram.com/lienzo_fashion_hub)
+- **Discord Server**: [Join Now](https://discord.gg/jH3SCAhx6k)
 
 ## 📣 Get Involved
 
-Your feedback is invaluable to us! If you have suggestions, ideas, or just want to say hi, reach out via our contact page or [instagram](https://instagram.com/lienzo_fashion_hub). We're always looking for ways to improve and grow!
+Your feedback is invaluable to us! If you have suggestions, ideas, or just want to say hi, reach out via our contact page, DM us on [Instagram](https://instagram.com/lienzo_fashion_hub) or hope into our [Discord Server](https://discord.gg/jH3SCAhx6k). We're always looking for ways to improve and grow!
 
 > [!NOTE]
 > Currently, the whole code for this brand is closed sourced. In the future, it might happen that some parts of the code may be opened up to help our community grow and expand together.

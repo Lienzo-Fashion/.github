@@ -1,6 +1,6 @@
 # Welcome to Lienzo 👕
 
-![Lienzo Logo](https://github.com/lienzo-fashion.png) <!-- Replace with the actual logo URL -->
+<img src="https://github.com/lienzo-fashion.png" alt="Lienzo Logo" width="200" height="200">
 
 ## 🏢 About Us
 

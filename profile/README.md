@@ -39,4 +39,4 @@ Your feedback is invaluable to us! If you have suggestions, ideas, or just want 
 > *"Your hoodie, your story!"*
 
 #
-© 2024 Lienzo™. All rights reserved.
+© 2025 Lienzo™. All rights reserved.
